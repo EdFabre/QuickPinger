@@ -1,0 +1,10 @@
+{
+  "title": "QuickPinger",
+  "description": "Quick and Dirty Script to check is CIDR has pingable objects",
+  "version": "0.0.0",
+  "author": "Edge F",
+  "gitRepo": "https://github.com/EdFabre/QuickPinger.git",
+  "main": "C:\\Repo\\pshell\\QuickPinger\\QuickPinger.ps1",
+  "license": "NONE",
+  "dependencies": {}
+}
